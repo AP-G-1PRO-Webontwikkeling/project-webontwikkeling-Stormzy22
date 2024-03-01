@@ -1,0 +1,126 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Goku",
+        "description": "De hoofdrolspeler van Dragon Ball Super. Een Saiyan-krijger die altijd op zoek is om sterker te worden.",
+        "age": 37,
+        "active": true,
+        "birthdate": "1983-04-16",
+        "image_url": "https://example.com/goku.jpg",
+        "status": "alive",
+        "hobbies": ["Training", "Vechten"],
+        "friend": {
+          "id": 2,
+          "name": "Vegeta",
+          "description": "Een trotse Saiyan-prins die altijd probeert Goku in kracht te overtreffen.",
+          "age": 38,
+          "active": true,
+          "birthdate": "1982-12-23",
+          "image_url": "https://example.com/vegeta.jpg",
+          "status": "alive",
+          "hobbies": ["Training", "Vechten"]
+        }
+      },
+      {
+        "id": 3,
+        "name": "Beerus",
+        "description": "De God van de Vernietiging voor Universe 7. Vaak gezien slapend of etend, maar extreem krachtig wanneer geprovoceerd.",
+        "age": 1000000000,
+        "active": true,
+        "birthdate": "Oudheid",
+        "image_url": "https://example.com/beerus.jpg",
+        "status": "alive",
+        "hobbies": ["Slapen", "Eten"],
+        "friend": {
+          "id": 4,
+          "name": "Whis",
+          "description": "De engelachtige assistent van Beerus. Uitzonderlijk bedreven in gevechtskunst en traint Goku en Vegeta.",
+          "age": "Onbekend",
+          "active": true,
+          "birthdate": "Onbekend",
+          "image_url": "https://example.com/whis.jpg",
+          "status": "alive",
+          "hobbies": ["Training", "Observeren"]
+        }
+      },
+      {
+        "id": 5,
+        "name": "Frieza",
+        "description": "Een meedogenloze tiran en voormalige heerser van het Universum 7. Streeft altijd naar absolute macht.",
+        "age": "Onbekend",
+        "active": true,
+        "birthdate": "Onbekend",
+        "image_url": "https://example.com/frieza.jpg",
+        "status": "alive",
+        "hobbies": ["Manipulatie", "Vernietiging"]
+      },
+      {
+        "id": 6,
+        "name": "Hit",
+        "description": "Een legendarische huurmoordenaar die bekend staat om zijn ongrijpbare tijdsprongtechniek.",
+        "age": "Onbekend",
+        "active": true,
+        "birthdate": "Onbekend",
+        "image_url": "https://example.com/hit.jpg",
+        "status": "alive",
+        "hobbies": ["Contracten nakomen", "Tijdsprongen"]
+      },
+      {
+        "id": 7,
+        "name": "Jiren",
+        "description": "Een mysterieuze vechter van onbekende afkomst met ongekende kracht.",
+        "age": "Onbekend",
+        "active": true,
+        "birthdate": "Onbekend",
+        "image_url": "https://example.com/jiren.jpg",
+        "status": "alive",
+        "hobbies": ["Meditatie", "Training"]
+      },
+      {
+        "id": 8,
+        "name": "Kale",
+        "description": "Een Saiyan van Universe 6 die bekend staat om haar ongeëvenaarde kracht in de Legendarische Super Saiyan-vorm.",
+        "age": "Onbekend",
+        "active": true,
+        "birthdate": "Onbekend",
+        "image_url": "https://example.com/kale.jpg",
+        "status": "alive",
+        "hobbies": ["Trainen", "Exploderen"]
+      },
+      {
+        "id": 9,
+        "name": "Cabba",
+        "description": "Een jonge Saiyan van Universe 6 die de kunst van Super Saiyan beheerst.",
+        "age": "Onbekend",
+        "active": true,
+        "birthdate": "Onbekend",
+        "image_url": "https://example.com/cabba.jpg",
+        "status": "alive",
+        "hobbies": ["Training", "Vriendschap sluiten"]
+      },
+      {
+        "id": 10,
+        "name": "Beerus",
+        "description": "De God van de Vernietiging voor Universe 7. Vaak gezien slapend of etend, maar extreem krachtig wanneer geprovoceerd.",
+        "age": 1000000000,
+        "active": true,
+        "birthdate": "Oudheid",
+        "image_url": "https://example.com/beerus.jpg",
+        "status": "alive",
+        "hobbies": ["Slapen", "Eten"],
+        "friend": {
+          "id": 3,
+          "name": "Goku",
+          "description": "De hoofdrolspeler van Dragon Ball Super. Een Saiyan-krijger die altijd op zoek is om sterker te worden.",
+          "age": 37,
+          "active": true,
+          "birthdate": "1983-04-16",
+          "image_url": "https://example.com/goku.jpg",
+          "status": "alive",
+          "hobbies": ["Training", "Vechten"]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,195 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
+[
+	{
+	  "id": "MTG-001",
+	  "name": "Black Lotus",
+	  "description": "Black Lotus is one of the most iconic and powerful Magic: The Gathering cards ever printed, capable of generating immense mana acceleration when played.",
+	  "age": 30,
+	  "isActive": false,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/black-lotus.jpg",
+	  "rarity": "Mythic",
+	  "colors": ["Colorless"],
+	  "types": ["Artifact"],
+	  "artist": "Christopher Rush",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-002",
+	  "name": "Lightning Bolt",
+	  "description": "Lightning Bolt is a classic red instant spell known for its efficiency in dealing direct damage to creatures or players.",
+	  "age": 27,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/lightning-bolt.jpg",
+	  "rarity": "Common",
+	  "colors": ["Red"],
+	  "types": ["Instant"],
+	  "artist": "Christopher Rush",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-003",
+	  "name": "Counterspell",
+	  "description": "Counterspell is a blue instant spell that allows players to counter target spell, making it a staple in blue control decks.",
+	  "age": 28,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/counterspell.jpg",
+	  "rarity": "Common",
+	  "colors": ["Blue"],
+	  "types": ["Instant"],
+	  "artist": "Mark Poole",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-004",
+	  "name": "Tarmogoyf",
+	  "description": "Tarmogoyf is a green creature known for its power and toughness scaling with the number of card types in all graveyards.",
+	  "age": 15,
+	  "isActive": true,
+	  "releaseDate": "2007-06-15",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/tarmogoyf.jpg",
+	  "rarity": "Mythic",
+	  "colors": ["Green"],
+	  "types": ["Creature"],
+	  "artist": "Ryan Barger",
+	  "expansion": {
+		"id": "EXP-045",
+		"name": "Future Sight",
+		"releaseYear": 2007,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/future-sight-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-005",
+	  "name": "Serra Angel",
+	  "description": "Serra Angel is a classic white creature known for its flying ability and vigilance, making it a formidable presence on the battlefield.",
+	  "age": 25,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/serra-angel.jpg",
+	  "rarity": "Uncommon",
+	  "colors": ["White"],
+	  "types": ["Creature"],
+	  "artist": "Douglas Shuler",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-006",
+	  "name": "Dark Ritual",
+	  "description": "Dark Ritual is a black sorcery spell known for its ability to generate extra mana at the cost of sacrificing a life point.",
+	  "age": 27,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/dark-ritual.jpg",
+	  "rarity": "Common",
+	  "colors": ["Black"],
+	  "types": ["Sorcery"],
+	  "artist": "Sandra Everingham",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-007",
+	  "name": "Giant Growth",
+	  "description": "Giant Growth is a green instant spell known for its ability to pump up the power and toughness of a creature, making it a combat trick favorite.",
+	  "age": 28,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/giant-growth.jpg",
+	  "rarity": "Common",
+	  "colors": ["Green"],
+	  "types": ["Instant"],
+	  "artist": "Dan Frazier",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-008",
+	  "name": "Ancestral Recall",
+	  "description": "Ancestral Recall is a blue sorcery spell that allows a player to draw three cards, making it one of the most powerful card draw spells ever printed.",
+	  "age": 30,
+	  "isActive": false,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/ancestral-recall.jpg",
+	  "rarity": "Rare",
+	  "colors": ["Blue"],
+	  "types": ["Sorcery"],
+	  "artist": "Mark Poole",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-009",
+	  "name": "Wrath of God",
+	  "description": "Wrath of God is a white sorcery spell that destroys all creatures on the battlefield, making it a powerful board wipe card.",
+	  "age": 27,
+	  "isActive": true,
+	  "releaseDate": "1993-08-05",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/wrath-of-god.jpg",
+	  "rarity": "Rare",
+	  "colors": ["White"],
+	  "types": ["Sorcery"],
+	  "artist": "Quinton Hoover",
+	  "expansion": {
+		"id": "EXP-001",
+		"name": "Alpha",
+		"releaseYear": 1993,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/alpha-symbol.jpg"
+	  }
+	},
+	{
+	  "id": "MTG-010",
+	  "name": "Lightning Helix",
+	  "description": "Lightning Helix is a red and white instant spell known for dealing damage to any target and gaining life for its controller, making it a versatile removal and life gain option.",
+	  "age": 20,
+	  "isActive": true,
+	  "releaseDate": "2004-06-01",
+	  "imageUrl": "https://raw.githubusercontent.com/yourusername/images/lightning-helix.jpg",
+	  "rarity": "Uncommon",
+	  "colors": ["Red", "White"],
+	  "types": ["Instant"],
+	  "artist": "Kev Walker",
+	  "expansion": {
+		"id": "EXP-054",
+		"name": "Ravnica: City of Guilds",
+		"releaseYear": 2004,
+		"symbolUrl": "https://raw.githubusercontent.com/yourusername/images/ravnica-symbol.jpg"
+	  }
+	}
+  ]
+  
